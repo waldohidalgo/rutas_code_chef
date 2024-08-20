@@ -34,9 +34,6 @@ class MusicPlayer:
                     node.prev = current
                     node.next = self.head
                     self.head.prev = node
-                   
-
-
     # Function to play the next song
     def playNext(self):
         # Complete this function
@@ -67,15 +64,6 @@ class MusicPlayer:
         # Complete this function
         return self.currentSong.songId
 
-    def __str__(self):
-        arr=[]
-        current = self.head
-        arr.append(current.songId)
-        while current.next != self.head:
-            arr.append(current.next.songId)
-            current = current.next
-
-        return str(arr)
 
 # Main function to test the music player
 # if __name__ == "__main__":

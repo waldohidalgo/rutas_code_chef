@@ -1,0 +1,24 @@
+def user_function():
+    # Open files in respective modes
+    input_filename = "./HandleFiles/input.txt"
+    output_filename = "./HandleFiles/output.txt"
+    try:
+        with open(input_filename, "r") as input_file, open(output_filename, "w") as output_file:
+            # Read and write the numbers from the file
+            for line in input_file:
+                number=int(line)
+                output_file.write(line.rstrip())
+                output_file.write(" "+str(number**2)+"\n")
+            
+        
+        # Display the contents of output.txt
+        with open(output_filename, "r") as output_file:
+            for line in output_file:
+                print(line.strip())
+        
+                
+    except IOError as e:
+        print("An error occurred:", e)
+
+
+user_function()
