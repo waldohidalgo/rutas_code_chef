@@ -174,11 +174,9 @@ print(maxSquareMatrix**2)
 15-Print Matrix In Spiral Fashion (Hard)
 
 ```py
-matrix=[[1,2,3,4],
-        [5,6,7,8],
-        [9,10,11,12],
-        [13,14,15,16],
-        [17,18,19,20]]
+n,m=map(int,input().split())
+
+matrix=[list(map(int,input().split())) for _ in range(n)]
 
 n=len(matrix)
 m=len(matrix[0])
