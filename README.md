@@ -14,6 +14,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
     - [2D Array / Matrices](#2d-array--matrices)
       - [Ejercicios Resueltos](#ejercicios-resueltos)
       - [Certificado](#certificado-2)
+    - [Prefix Sum](#prefix-sum)
+      - [Certificado](#certificado-3)
 
 ## Rutas Finalizadas
 
@@ -302,3 +304,41 @@ for i in range(n):
 #### Certificado
 
 ![2D Array / Matrices CodeChef Certificate](./Matrix/2D_array_matrices_certificate.webp)
+
+### Prefix Sum
+
+Se implementan arrays de operaciones prefix o suffix precalculadas con el objetivo de reducir la complejidad temporal de los algoritmos, a cambio de un incremento en la complejidad espacial. Esta técnica optimiza el rendimiento al evitar la repetición de cálculos sobre los mismos datos.
+
+En el siguiente README.md explico el enfoque de cada solución a cada problema siguiente:
+
+1-Creating Prefix Array
+
+2-Optimization Using Prefix Array
+
+3-Good subarrays
+
+4-Counting Pretty Numbers
+
+5-Little Chef and Sums
+
+6-Good Subarrays 2
+
+7-Suffix Arrays
+
+8-Mystical Numbers
+
+9-Optimal Denomination
+
+10-Binod
+
+11-Rectangular Queries
+
+12-Again XOR problem
+
+13-Segmentation Fault
+
+14-Triplets Min
+
+#### Certificado
+
+![Prefix Sum Certificado](./PrefixSum/Prefix_Sum_Problems_Certificate.webp)
