@@ -15,6 +15,7 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Ejercicios Resueltos](#ejercicios-resueltos)
       - [Certificado](#certificado-2)
     - [Prefix Sum](#prefix-sum)
+      - [Ejercicios Resueltos](#ejercicios-resueltos-1)
       - [Certificado](#certificado-3)
 
 ## Rutas Finalizadas
@@ -309,7 +310,9 @@ for i in range(n):
 
 Se implementan arrays de operaciones prefix o suffix precalculadas con el objetivo de reducir la complejidad temporal de los algoritmos, a cambio de un incremento en la complejidad espacial. Esta técnica optimiza el rendimiento al evitar la repetición de cálculos sobre los mismos datos.
 
-En el siguiente README.md explico el enfoque de cada solución a cada problema siguiente:
+#### Ejercicios Resueltos
+
+En el siguiente [README.md](./PrefixSum/README.md) explico el enfoque de cada solución a cada problema siguiente:
 
 1-Creating Prefix Array
 
