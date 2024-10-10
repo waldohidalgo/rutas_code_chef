@@ -1,6 +1,5 @@
 #!/c/Python312/python
 from math import gcd
-# cook your dish here
 t=int(input())
 for case in range(t):
     n=int(input())

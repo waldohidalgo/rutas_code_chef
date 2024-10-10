@@ -17,6 +17,9 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
     - [Prefix Sum Problems](#prefix-sum-problems)
       - [Ejercicios Resueltos](#ejercicios-resueltos-1)
       - [Certificado](#certificado-3)
+    - [Combinatorics Problems](#combinatorics-problems)
+      - [Ejercicios Resueltos](#ejercicios-resueltos-2)
+      - [Certificado](#certificado-4)
 
 ## Rutas Finalizadas
 
@@ -345,3 +348,29 @@ En el siguiente [README.md](./PrefixSum/README.md) explico el enfoque de cada so
 #### Certificado
 
 ![Prefix Sum Certificado](./PrefixSum/Prefix_Sum_Problems_Certificate.webp)
+
+### Combinatorics Problems
+
+Se implementan técnicas de conteo vía agrupaciones e implementación posterior en código.
+
+#### Ejercicios Resueltos
+
+En el siguiente [README.md](./Combinatorics/README.md) se encuentra la explicación a los ejercicios más interesantes y relevantes realizados siguientes:
+
+1- Fruit Basket
+
+2- Divisibility Problem
+
+3- Word Counting
+
+4-Permutation Subsequence
+
+5-Distance Coloring
+
+6-Robot Movings
+
+7-Marbles
+
+#### Certificado
+
+![Combinatorics Problems Certificado](./Combinatorics/Combinatorics_Certificate.webp)
