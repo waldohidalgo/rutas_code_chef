@@ -20,6 +20,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
     - [Combinatorics Problems](#combinatorics-problems)
       - [Ejercicios Resueltos](#ejercicios-resueltos-2)
       - [Certificado](#certificado-4)
+    - [Visualise data using Matplotlib](#visualise-data-using-matplotlib)
+      - [Certificado](#certificado-5)
 
 ## Rutas Finalizadas
 
@@ -374,3 +376,11 @@ En el siguiente [README.md](./Combinatorics/README.md) se encuentra la explicaci
 #### Certificado
 
 ![Combinatorics Problems Certificado](./Combinatorics/Combinatorics_Certificate.webp)
+
+### Visualise data using Matplotlib
+
+Utilización de Matplotlib y librerías anexas para la creación de diversos graficos.
+
+#### Certificado
+
+![Visualise data using Matplotlib](./Matplotlib/Certificate-Visualise%20Data%20using%20Matplotlib.webp)
