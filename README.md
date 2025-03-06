@@ -22,6 +22,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Certificado](#certificado-4)
     - [Visualise data using Matplotlib](#visualise-data-using-matplotlib)
       - [Certificado](#certificado-5)
+    - [Greedy Algorithms](#greedy-algorithms)
+      - [Certificado](#certificado-6)
 
 ## Rutas Finalizadas
 
@@ -384,3 +386,11 @@ Utilización de Matplotlib y librerías anexas para la creación de diversos gra
 #### Certificado
 
 ![Visualise data using Matplotlib](./Matplotlib/Certificate-Visualise%20Data%20using%20Matplotlib.webp)
+
+### Greedy Algorithms
+
+Implementación de Greedy Algorithms demostrando en cada caso que un **óptimo local es un óptimo global**.
+
+#### Certificado
+
+![Greedy Algorithms](./Greedy%20Algorithms/Greedy%20Algorithms%20Certificate.webp)
