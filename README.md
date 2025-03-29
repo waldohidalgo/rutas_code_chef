@@ -24,6 +24,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Certificado](#certificado-5)
     - [Greedy Algorithms](#greedy-algorithms)
       - [Certificado](#certificado-6)
+    - [Stack and Queues](#stack-and-queues)
+      - [Certificado](#certificado-7)
 
 ## Rutas Finalizadas
 
@@ -394,3 +396,11 @@ Implementación de Greedy Algorithms demostrando en cada caso que un **óptimo l
 #### Certificado
 
 ![Greedy Algorithms](./Greedy%20Algorithms/Greedy%20Algorithms%20Certificate.webp)
+
+### Stack and Queues
+
+Problemas resueltos utilizando Python y C++ en los dos problemas finales.
+
+#### Certificado
+
+![Certificado Stack and Queues ](./Stacks%20and%20Queues/Stacks%20and%20Queues%20Certificate.webp)
