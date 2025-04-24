@@ -26,6 +26,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Certificado](#certificado-6)
     - [Stack and Queues](#stack-and-queues)
       - [Certificado](#certificado-7)
+    - [Practice Arrays](#practice-arrays)
+      - [Certificado](#certificado-8)
 
 ## Rutas Finalizadas
 
@@ -404,3 +406,11 @@ Problemas resueltos utilizando Python y C++ en los dos problemas finales.
 #### Certificado
 
 ![Certificado Stack and Queues ](./Stacks%20and%20Queues/Stacks%20and%20Queues%20Certificate.webp)
+
+### Practice Arrays
+
+Los 23 problemas que componen la ruta los he resuelto utilizando Python y C#. La ruta de la carpeta con el código C# es la siguiente: [código c#](./Practice%20Arrays/codigo_cs/)
+
+#### Certificado
+
+![Certificado Practice Arrays](./Practice%20Arrays/Practice%20Arrays%20Certificate.webp)
