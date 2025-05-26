@@ -28,6 +28,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Certificado](#certificado-7)
     - [Practice Arrays](#practice-arrays)
       - [Certificado](#certificado-8)
+    - [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
+      - [Certificado](#certificado-9)
 
 ## Rutas Finalizadas
 
@@ -414,3 +416,11 @@ Los 23 problemas que componen la ruta los he resuelto utilizando Python y C#. La
 #### Certificado
 
 ![Certificado Practice Arrays](./Practice%20Arrays/Practice%20Arrays%20Certificate.webp)
+
+### Searching and Sorting Algorithms
+
+Implementaciones realizadas utilizando Python y C#. Se abordan los algoritmos: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Counting Sort y Radix Sort.
+
+#### Certificado
+
+![Certificado Searching and Sorting Algorithms](./Searching%20and%20Sorting%20Algorithms/Searching%20and%20Sorting%20Algorithms%20Certificate.webp)
