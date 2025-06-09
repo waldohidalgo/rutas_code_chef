@@ -30,6 +30,8 @@ Repositorio que contiene los ejercicios y proyectos requeridos para diversas rut
       - [Certificado](#certificado-8)
     - [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
       - [Certificado](#certificado-9)
+    - [Practice Sorting](#practice-sorting)
+      - [Certificado](#certificado-10)
 
 ## Rutas Finalizadas
 
@@ -424,3 +426,11 @@ Implementaciones realizadas utilizando Python y C#. Se abordan los algoritmos: B
 #### Certificado
 
 ![Certificado Searching and Sorting Algorithms](./Searching%20and%20Sorting%20Algorithms/Searching%20and%20Sorting%20Algorithms%20Certificate.webp)
+
+### Practice Sorting
+
+Resolución de Ejercicios variados de Sorting utilizando Python y C#.
+
+#### Certificado
+
+![Certificado Practice Sorting](./Practice%20Sorting/Practice%20Sorting%20Completion.webp)
